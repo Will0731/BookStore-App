@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="colorPrimary">#73BBBD</color>
+    <color name="colorPrimaryDark">#73BBBD</color>
+    <color name="colorAccent">#3d444b</color>
+
+    <color name="colorPrice">#FF4081</color>
+
+    <color name="colorDarkred">#b53e3a</color>
+
+    <color name="colorGray">#ccc</color>
+    <color name="color_nav_back">#DDDDDD</color>
+    <color name="color_nab_item">@color/colorPrimaryDark</color>
+    <color name="colorGrey">#aaaaaa</color>
+    <color name="colorWhite">#ffffff</color>
+    <color name="colorRed">#FF0000</color>
+    <color name="colorGreyLight">#f8f8f8</color>
+    <color name="colorBlack">#000000</color>
+    <color name="neutral_70">@color/gray_70</color>
+    <color name="gray_70">#3d444b</color>
+    <color name="neutral">@color/gray_50</color>
+    <color name="gray_50">#676a74</color>
+    <color name="colorGreyDark">#363636</color>
+    <color name="colorRedDark">#880000</color>
+    <color name="colorYellow">	#FFFF33</color>
+    <color name="colorBlueLight">#D9EBFF</color>
+    <color name="colorB2">	#003399</color>
+    <color name="colorBG">	#0000FF</color>
+    <color name="colorB">	#007979</color>
+    <color name="colornav">	#00e3e3</color>
+    <color name="colorBtn">#787878</color>
+
+
+
+    <color name="color_welcome">#ffffff</color>
+    <color name="color_welcome_Dark">#ffffff</color>
+    <color name="colorTransparentWhite">#ffffff</color>
+
+    <!--color for button style-->
+    <color name="gradient_start_color">#4c84ff</color>
+    <color name="gradient_end_color">#18a3fe</color>
+
+    <!-- colors for tab and screen text -->
+    <color name="tab_indicator_gray">#c0c0c0</color>
+    <color name="intro_title_color">#000000</color>
+    <color name="intro_description_color">#656565</color>
+</resources>
